@@ -3,8 +3,10 @@ project:
   output-dir: docs
 
 website:
-  title: "Statistics I @ ISCAL"
+  title: "Statistics I"
   navbar:
+    logo: images/iscal_logo.svg
+    logo-href: https://iscal.ipl.pt
     left:
       - href: index.qmd
         text: Home
@@ -22,6 +24,7 @@ format:
       - brand
     css: styles.css
     toc: true
+
 
 
 
