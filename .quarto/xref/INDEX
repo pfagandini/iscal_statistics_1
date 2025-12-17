@@ -4,5 +4,47 @@
   },
   "about.qmd": {
     "about.html": "f6324e58"
+  },
+  "1_intro.qmd": {
+    "1_intro.html": "e0d83baa"
+  },
+  "2.1_prob.qmd": {
+    "2.1_prob.html": "91c93899"
+  },
+  "2.2_rvs.qmd": {
+    "2.2_rvs.html": "ac96b24c"
+  },
+  "3.1_mod_discrete.qmd": {
+    "3.1_mod_discrete.html": "13cfd391"
+  },
+  "3.2_mod_continuous.qmd": {
+    "3.2_mod_continuous.html": "111bd61a"
+  },
+  "Exercises_1_detailed.qmd": {
+    "Exercises_1_detailed.html": "2805a2ea"
+  },
+  "Exercises_1.qmd": {
+    "Exercises_1.html": "24e80d96"
+  },
+  "Exercises_2.1.qmd": {
+    "Exercises_2.1.html": "f6178c0a"
+  },
+  "Exercises_2.2.qmd": {
+    "Exercises_2.2.html": "1ef650e7"
+  },
+  "Exercises_3.1.qmd": {
+    "Exercises_3.1.html": "2a594497"
+  },
+  "Exercises_3.2.qmd": {
+    "Exercises_3.2.html": "1bc356ea"
+  },
+  "Formulae.qmd": {
+    "Formulae.html": "ae306a9c"
+  },
+  "Syllabus.qmd": {
+    "Syllabus.html": "9459d845"
+  },
+  "Material.qmd": {
+    "Material.html": "17f7868e"
   }
 }

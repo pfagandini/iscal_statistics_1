@@ -3,12 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "iscal_statistics_1"
+  title: "Statistics I @ ISCAL"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: Syllabus.qmd
+        text: Syllabus
+      - href: Material.qmd
+        text: Course Material
+      - href: https://pfagandini.github.io/teaching
+        text: Back to teaching
 
 format:
   html:

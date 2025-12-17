@@ -2,6 +2,9 @@
 title: "Statistics I @ ISCAL"
 ---
 
-This is a Quarto website.
+Welcome to the Statistics I course of the Bachelor in Management at the Lisbon Accounting and Business School of the Polytechnic University of Lisbon.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+In this course we will cover diverse topics, starting with Index Numbers, Introduction to the Probability Theory, discrete and joint random variables, to close with the most common discrete and continuous probabilistic models.
+
+
+In this website you will be able to find the syllabus, the *formulae*, the slides, and exercises to prepare for the assessments.

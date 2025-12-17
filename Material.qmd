@@ -1,0 +1,27 @@
+---
+title: "Course Material"
+---
+
+### Slides
+
+1. [Index Numbers](1_intro.qmd)
+2. Random Variables
+    1. [Probability Theory](2.1_prob.qmd)
+    2. [Random Variables](2.2_rvs.qmd)
+3. Probabilistic Models
+    1. [Discrete Models](3.1_mod_discrete.qmd)
+    2. [Continuous Models](3.2_mod_continuous.qmd)
+
+### Exercises
+
+1. [Index Numbers](Exercises_1.qmd)
+2. Random Variables
+    1. [Probability Theory](Exercises_2.1.qmd)
+    2. [Random Variables](Exercises_2.2.qmd)
+3. Probabilistic Models
+    1. [Discrete Models](Exercises_3.1.qmd)
+    2. [Continuous Models](Exercises_3.2.qmd)
+
+### Formulae
+
+1. [Formulae](Formulae.qmd)
