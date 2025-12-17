@@ -1,5 +1,5 @@
 ---
-title: "iscal_statistics_1"
+title: "Statistics I @ ISCAL"
 ---
 
 This is a Quarto website.
